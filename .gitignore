@@ -1,0 +1,11 @@
+*/.ipynb_checkpoints/
+*.zarr
+.zarr
+*.png
+.png
+.toml
+*.toml
+.idea
+*.idea
+__pycache__
+*__pycache__

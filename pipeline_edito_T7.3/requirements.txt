@@ -1,0 +1,25 @@
+xarray == 2022.3.0
+pandas == 2.2.2
+numpy==1.26.4
+rioxarray == 0.17.0
+matplotlib==3.9.2
+showit == 1.1.4
+carbonplan-data == 0.4.0
+carbonplan-styles == 0.4.2
+zarr == 2.18.3
+git+https://github.com/TomNicholas/datatree@54edbf77fdc756b74bfca00986f4a68e04643b29
+# pip install --no-build-isolation "git+https://github.com/TomNicholas/datatree@54edbf77fdc756b74bfca00986f4a68e04643b29"
+git+https://github.com/carbonplan/ndpyramid@5ab3745cc42f2dd1e384f7c9f82dac071cfde1dc
+
+
+dacite==1.8.1
+intake==2.0.4
+numcodecs==0.12.1
+psutil==5.9.8
+Requests==2.32.3
+s3fs==2024.3.1
+tenacity==9.0.0
+toml==0.10.2
+dask==2024.9.0
+scipy==1.14.1
+
